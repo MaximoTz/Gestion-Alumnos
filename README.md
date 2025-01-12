@@ -1,2 +1,2 @@
-![Login:](UI/img/Login.jpg)
-![Ventana Principal:](UI/img/Principal.jpg)
+![Login:](UI/Img/Login.jpg)
+![Ventana Principal:](UI/Img/Principal.jpg)
